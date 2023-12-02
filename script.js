@@ -6,6 +6,6 @@ const gridContainer = document.querySelector(".grid-container");
 for (let i = 0; i < 256; i++) {
   const gridDiv = document.createElement("div");
   gridDiv.classList.add("grid__cell");
-  gridDiv.style.cssText = "border: 1px black solid; width:20px; height:20px;";
+  gridDiv.style.cssText = "border: 1px black solid; width:30px; height:30px;";
   gridContainer.appendChild(gridDiv);
 }

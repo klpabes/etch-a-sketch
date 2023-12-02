@@ -38,6 +38,6 @@ button {
   flex-wrap: wrap;
 
   /* based on 20px grid cell */
-  height: 320px;
-  width: 320px;
+  height: 480px;
+  width: 480px;
 }
